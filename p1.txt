@@ -1,2 +1,4 @@
+
 Git is local Repository whereas Github is remote repository.
 Github is version ontrol.
+Modifying git bash
