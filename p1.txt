@@ -1,1 +1,2 @@
-it is local Repository whereas Github is remote repository
+Git is local Repository whereas Github is remote repository.
+Github is version ontrol.
